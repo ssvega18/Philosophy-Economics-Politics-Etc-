@@ -2,4 +2,4 @@
 Where I store my notes for PPE+
 
 ### Table of Contents
-- [Page 2] (./page2.md)
+- [Page 2](./page2.md)
